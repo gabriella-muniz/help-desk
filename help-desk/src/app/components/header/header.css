@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+
+
+header{
+    background-image: linear-gradient(90deg, #778fff 0, #486ee5 50%, #114eae 100%);
+    padding: 20px 10px;
+    display: flex;
+    border-bottom: 1px solid white;
+}

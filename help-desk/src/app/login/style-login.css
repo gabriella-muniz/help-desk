@@ -1,0 +1,14 @@
+.background{
+    background-image: linear-gradient(90deg, #778fff 0, #486ee5 50%, #114eae 100%);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
