@@ -9,7 +9,7 @@ export default function Login(){
     return (
         
         <> 
-        <Header/>
+        
         <div className='background'> 
         <LoginCard title= "Entre na sua conta">
         
@@ -17,7 +17,7 @@ export default function Login(){
             <Input type= "email" placeholder="Digite seu email" />
             <Input type= "password" placeholder="Digite sua senha" />
            <Button>Entrar</Button>
-           <Link href="/cadastro">Ainda não possui conta? </Link>
+           <Link href="/cadastro">Ainda não possui conta? Crie uma! </Link>
         </form>
            
            </LoginCard>

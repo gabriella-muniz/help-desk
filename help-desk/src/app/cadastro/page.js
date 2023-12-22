@@ -8,7 +8,7 @@ import LoginCard from "../login-card/page";
 export default function Cadastro(){
     return (
         <> 
-        <Header />
+        
         <div className="background"> 
            <LoginCard title= "Crie sua conta">
            <form className='form'> 
